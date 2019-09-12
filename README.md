@@ -1,0 +1,2 @@
+# Memory-Game
+This application is a memory game that I designed in high school that tests your short term memory by showing the player images of different shapes and colors in succession and has the player try to remember them to answer questions at the end of each round. This game also generates and updates a "gamestats" file that stores the high score of the user each time they play and displays the top 5 at the end of each game.
